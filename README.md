@@ -13,20 +13,25 @@
 - 代码小白、文科生，想通过有趣的方式学习创建AI应用
 - 想具象地了解AI Agent
 
+你会有什么收获：
+- 构建你的个人AI助手
+- 发布第一个自己开发的AI应用
+
 ## 目录
 *这里写你的项目目录，已完成的部分用添加上跳转链接*
-- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
-- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
-  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
-  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
-- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
-  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
-    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
-    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
-  - 3.2 我是3.2的标题
-- 第4章
-  - 4.1 我是4.1的标题
-  - 4.2 我是4.2的标题
+- 1. Agent 概念启蒙
+  2. Coze平台基础入门+prompt
+  3. Coze平台基础2
+  4. Coze平台基础-插件
+  5. 知识库设置
+  6. 添加记忆
+  7. 让它帮你做任务 - 工作流
+  8. 让它帮你做任务 - 工作流2 - 知识库
+  9. 让它帮你做任务 - 工作流3 - 图像处理节点
+  10. 更好看的界面 - 前端UI
+  11. 让多个AI Agent一起玩 - 多Agent
+
+    
 
 ## 贡献者名单
 
@@ -39,6 +44,11 @@
 *注：表头可自定义，但必须在名单中标明项目负责人*
 
 ## 参与贡献
+
+### 协作方式
+- 基于游戏化思维创作内容，避免枯燥的理论
+- 尽量减少理论讲解，用游戏等可感知的案例让读者了解概念
+- 每一章=一个小项目。根据内容，能让读者有至少一次实践机会，比如能做出一个小应用
 
 - 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
 - 如果你想参与贡献本项目，可以提Pull request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
